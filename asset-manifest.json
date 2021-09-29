@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//stugeh.github.io/portfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/http//stugeh.github.io/portfolio/static/js/main.049946a3.chunk.js",
+    "main.js.map": "/http//stugeh.github.io/portfolio/static/js/main.049946a3.chunk.js.map",
+    "runtime-main.js": "/http//stugeh.github.io/portfolio/static/js/runtime-main.3a36326f.js",
+    "runtime-main.js.map": "/http//stugeh.github.io/portfolio/static/js/runtime-main.3a36326f.js.map",
+    "static/js/2.a2b9b291.chunk.js": "/http//stugeh.github.io/portfolio/static/js/2.a2b9b291.chunk.js",
+    "static/js/2.a2b9b291.chunk.js.map": "/http//stugeh.github.io/portfolio/static/js/2.a2b9b291.chunk.js.map",
+    "static/js/3.236fcb0e.chunk.js": "/http//stugeh.github.io/portfolio/static/js/3.236fcb0e.chunk.js",
+    "static/js/3.236fcb0e.chunk.js.map": "/http//stugeh.github.io/portfolio/static/js/3.236fcb0e.chunk.js.map",
+    "index.html": "/http//stugeh.github.io/portfolio/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/http//stugeh.github.io/portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a2b9b291.chunk.js.LICENSE.txt": "/http//stugeh.github.io/portfolio/static/js/2.a2b9b291.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/http//stugeh.github.io/portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a36326f.js",
+    "static/js/2.a2b9b291.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.049946a3.chunk.js"
+  ]
+}
